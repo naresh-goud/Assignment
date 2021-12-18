@@ -1,6 +1,5 @@
-# Chatter Coding Challenge Solution🤖 &nbsp; ![hard](https://img.shields.io/badge/-Hard-red) ![time](https://img.shields.io/badge/%E2%8F%B0-60m-blue)
+# Chatter Coding Challenge Solution by Nareshkumar
 
-&nbsp;
 # Goals / Outcomes ✨
 - To test knowledge of using sockets (socket.io) and events
 - Understanding of callbacks, hooks and function references
